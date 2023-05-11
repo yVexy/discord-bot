@@ -1,5 +1,17 @@
 {
   "dependencies": {
-    "discord.js": "^14.11.0"
-  }
+    "chalk": "^4.1.2",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3"
+  },
+  "name": "base-bot",
+  "description": "Em desenvolvimento",
+  "version": "1.0.0",
+  "main": "functions/sharding.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vexy",
+  "license": "ISC"
 }
