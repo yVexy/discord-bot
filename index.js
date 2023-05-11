@@ -5,7 +5,6 @@ process.on("unhandledRejection", (reason, promise) => {
     console.log("ERROR: Rejeição possivelmente não tratada em:\n" + "promisse:\n" + promise + "\nmotivo:\n" + reason.message);
 });
 
-const chalk = require("chalk");
 const { Client, Collection, Partials, GatewayIntentBits, WebhookClient, EmbedBuilder } = require("discord.js");
 const handler = require("./handler/index.js");
 require('dotenv').config();
