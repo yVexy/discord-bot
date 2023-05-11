@@ -12,4 +12,5 @@
 }
 ```
 
-# recommended free host: SquareCloud: https://squarecloud.app
+## recommended free host: SquareCloud https://squarecloud.app
+(If you are not going to use SquareCloud, you can delete the "squarecloud.config" file)
