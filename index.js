@@ -1,3 +1,2 @@
 const Discord = require("discord.js");
-
-// test
+const axios = require("axios");
