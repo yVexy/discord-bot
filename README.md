@@ -12,4 +12,4 @@
 }
 ```
 
-# recommended free host: (SquareCloud)[https://squarecloud.app]
+# recommended free host: SquareCloud: https://squarecloud.app
