@@ -17,6 +17,8 @@ const webhookUrl = ''; // WebHook URL
 ```
 ## On your discord server, copy the webhookURl and set on "index.js" line 56.
 
+### to run: node . or node functions/sharding.js
+
 Want a developer-only command? Put "ownerOnly: true" at the beginning of the commands (I have put some commands with this (SlashCommands/admin/test.js or PrefixCommands/admin/test.js))
 
 ## Obs: The subfolders is just for organization
