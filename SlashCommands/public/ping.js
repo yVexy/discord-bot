@@ -8,7 +8,7 @@ module.exports = {
             name: "ephemeral",
             description: "Wanna hide this message?",
             type: ApplicationCommandOptionType.Boolean,
-            required: true
+            required: false
         }
     ],
     run: async(client, interaction) => {
