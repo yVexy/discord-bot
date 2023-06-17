@@ -1,6 +1,5 @@
 require('dotenv').config();
 const { ShardingManager } = require('discord.js');
-const chalk = require("chalk");
 
 const manager = new ShardingManager('./index.js', {
 	token: process.env.clientToken,
